@@ -41,7 +41,7 @@
 					<table class = "table table-bordered table-hover" style = "text-align: center; background-color: white; border: 1px solid #dddddd">
 						<thead>
 							<tr>
-								<th colspan = "2"><h4>로그인 양식</h4></th>
+								<th colspan = "2"><h4>로그인  양식</h4></th>
 							</tr>
 						</thead>
 						<tbody>
